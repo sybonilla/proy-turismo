@@ -1,0 +1,22 @@
+*
+{
+    margin: 80px;
+}
+body
+{
+    background-color: aquamarine;
+    color: blue;
+    font-family: cambria;
+
+}
+img
+{
+width: 200px;
+height: 200px;
+}
+p
+{
+background-color: bisque;
+margin: 5px;
+padding: 5px;
+}
